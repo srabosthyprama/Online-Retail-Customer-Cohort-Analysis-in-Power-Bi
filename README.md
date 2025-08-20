@@ -26,6 +26,6 @@ The insights can help answer:
 ## 🔗 Links
 - **🔴 Live Dashboard:** [View Here](https://app.powerbi.com/view?r=eyJrIjoiMjUxYWZiYzItOWMwMC00NzdiLTkyYWMtMDYxNzlmMDI3OWQ0IiwidCI6IjA5MzEzOTE3LTRiODctNDBhOC04NjM3LWU3NDMyZDc1NDY4NiIsImMiOjEwfQ%3D%3D)
 
-- **📂 Dataset:** → [Online Retail II]([./data/raw_dataset_sample.xlsx](https://archive.ics.uci.edu/dataset/502/online+retail+ii))  
+- **📂 Dataset:** → [Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii)  
 
 
