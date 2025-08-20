@@ -24,7 +24,8 @@ The insights can help answer:
    - Line charts → churn trend, retention trend, total customers  
 
 ## 🔗 Links
-- **🔴 Live Dashboard:** [View Here]([YourPowerBILink](https://app.powerbi.com/view?r=eyJrIjoiMjUxYWZiYzItOWMwMC00NzdiLTkyYWMtMDYxNzlmMDI3OWQ0IiwidCI6IjA5MzEzOTE3LTRiODctNDBhOC04NjM3LWU3NDMyZDc1NDY4NiIsImMiOjEwfQ%3D%3D))  
+- **🔴 Live Dashboard:** [View Here]([YourPowerBILink](https://app.powerbi.com/view?r=eyJrIjoiMjUxYWZiYzItOWMwMC00NzdiLTkyYWMtMDYxNzlmMDI3OWQ0IiwidCI6IjA5MzEzOTE3LTRiODctNDBhOC04NjM3LWU3NDMyZDc1NDY4NiIsImMiOjEwfQ%3D%3D)
+- 
 
 - **📂 Dataset:**  
   - Dataset → [Online Retail II]([./data/raw_dataset_sample.xlsx](https://archive.ics.uci.edu/dataset/502/online+retail+ii))  
